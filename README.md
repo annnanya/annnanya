@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello, I'm Ananya Singh! 👋
 
-<!--
-**annnanya/annnanya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Software Developer** with 2+ years of experience specializing in front-end and back-end technologies. Passionate about building efficient, scalable web applications and learning new technologies every day.
 
-Here are some ideas to get you started:
+- 💻 I enjoy working on JavaScript, React, and Node.js to create seamless user experiences.
+- 🌱 Currently honing my skills in **full-stack** development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technologies & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,html,css,cpp,git,github,react,nodejs,express,mongodb,bootstrap,tailwind,vscode,postman,mysql,xd" />
+</p>
+
+### 📫 Get in touch
+- **Email**: singh.ananya2406@gmail.com
+- **LinkedIn**: www.linkedin.com/in/ananyasingh2406
+  
+Let's build something amazing together!
