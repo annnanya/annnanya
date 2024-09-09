@@ -6,12 +6,12 @@ I'm a **Software Developer** with over 2+ years of hands-on experience, blending
 - 🌱 Currently exploring the depths of **full-stack** development, adding new tools to my arsenal every day.
 - 🚀 I love turning ideas into reality with clean and efficient code.
 
-### 🛠️ Tech Stack
+# 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,js,ts,react,next,redux,vite,webpack,babel,nodejs,express,mongodb,mysql,graphql,git,github,vercel,azure,jest,npm,postman,cpp,bootstrap,vscode" />
 </p>
 
-### 📫 Let's Connect!
+# 📫 Let's Connect!
 - **Email**: [singh.ananya2406@gmail.com](mailto:singh.ananya2406@gmail.com)
 - **LinkedIn**: [www.linkedin.com/in/ananyasingh2406](https://www.linkedin.com/in/ananyasingh2406)
 
