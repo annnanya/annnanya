@@ -11,7 +11,7 @@ const data = [
 		title: "PriceWise",
 		date: "April 24 - Present",
 		techStack: "NextJs, TypeScript, Web Scraping, CRON Jobs, Node Mailer",
-		desc: `Pricewise is a web application designed to assist users in tracking product prices and searching for products. It provides a streamlined user interface with components like a search bar, product cards, and price tracking functionality. Users can receive email notifications for price changes through an integrated email system. The application includes a cron job for daily price updates and utilizes web scraping to gather product details from online stores. With a focus on user experience, Pricewise offers a practical solution for savvy shoppers looking to stay informed about the best deals.`,
+		desc: `Pricewise is a web application that helps users track product prices and search for deals. Featuring a sleek interface with a search bar, product cards, and price tracking, it notifies users of price changes via email. Using web scraping and daily updates through cron jobs, Pricewise ensures shoppers stay informed about the best offers.`,
 		url: "https://raw.githubusercontent.com/annnanya/annnanya/master/src/assets/pricewise.png",
 		github: "https://github.com/annnanya/pricewise",
 	},
