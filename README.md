@@ -1,6 +1,5 @@
-# **Hi there, I'm Ananya Singh! 👩‍💻**  
-<img src="./images/myimg.png" alt="Home Page" width="820px" height= "300px>
-### *Crafting the future, one line of code at a time.*  
+# **Turning ideas into interactive web realities.**  
+  <img src="./images/myimg.png" alt="Home Page" width="1020px" height= "350px">
 
 I'm a **passionate Software Developer** with over **2+ years of experience** building seamless, scalable, and innovative web applications. My expertise lies in harnessing modern technologies to deliver engaging user experiences and robust solutions. I'm committed to **continuous learning** and thrive in dynamic environments where creativity meets technology.
 
