@@ -20,15 +20,6 @@ I'm a **passionate Software Developer** with over **2+ years of experience** bui
 
 ---
 
-## **📈 GitHub Analytics**  
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=annnanya&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annnanya&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /><br/>
-  <img src="https://visitcount.itsvg.in/api?id=annnanya&icon=5&color=6" alt="Profile Visits" />
-</p>
-
----
-
 ## **🌐 Let's Connect!**  
 <p align="center">
   <a href="mailto:singh.ananya2406@gmail.com"><img src="https://img.shields.io/badge/-Email-5A4FCF?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email" /></a>
@@ -43,5 +34,11 @@ I'm a **passionate Software Developer** with over **2+ years of experience** bui
 - 💬 Always up for tech talk or brainstorming sessions!
 
 ---
+
+## **📈 GitHub Analytics**  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annnanya&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /><br/>
+  <img src="https://visitcount.itsvg.in/api?id=annnanya&icon=5&color=6" alt="Profile Visits" />
+</p>
 
 ### 🔗 *Ready to collaborate? Let's build something amazing together!*  
