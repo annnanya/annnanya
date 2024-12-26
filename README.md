@@ -1,4 +1,4 @@
-  <img src="./images/Bottom_up.svg" alt="WELCOME" width="1020px" height= "300px">
+# **Welcome to my profile !**  
   <img src="./images/myimg.png" alt="ME" width="1020px" height= "300px">
 
 
